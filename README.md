@@ -5,6 +5,16 @@ Tracks:
 * Artificial Intelligence
 * Big Data
 
+# Sample Codes 
+| Tool | Sample Codes |
+| ------------- |:-------------:|
+| Azure Data Lake | [Sample Codes Azure Data Lake](https://github.com/caiomsouza/microsoft-azure-big-data-on-the-cloud) | 
+| Azure Cosmos DB | [Sample Codes Azure Data Lake](https://github.com/caiomsouza/microsoft-cosmos-db-playground) | 
+| Azure Databricks | [Sample Codes Azure Databricks](https://github.com/caiomsouza/microsoft-azure-databricks-playground) | 
+| Cognitive Services | [Sample Codes Cognitive Services](https://github.com/caiomsouza/Microsoft-Cognitive-Services) | 
+| R | [Sample Codes with R](https://github.com/caiomsouza/microsoft-big-data-scientist-and-ai/tree/master/samples/r) | 
+| Python | [Sample Codes with Python](https://github.com/caiomsouza/microsoft-big-data-scientist-and-ai/tree/master/samples/python) | 
+
 
 # How to start 
 
