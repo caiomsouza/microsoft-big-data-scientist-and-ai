@@ -20,7 +20,7 @@ Technologies you will use to gain your skills:
 
 # How to start 
 
-<b>Data Science</b>
+<b>Data Science</b><BR>
 Opportunities for data scientists—one of today's hottest jobs—are rapidly growing in response to the exponential amounts of data being captured and analyzed. Companies hire data scientists to find insights and to solve meaningful business problems.<BR>  
 
 Microsoft Professional Program for Data Science <BR>
