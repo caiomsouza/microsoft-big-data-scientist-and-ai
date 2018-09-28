@@ -4,6 +4,8 @@ Tracks:
 * Data Science
 * Artificial Intelligence
 * Big Data
+* [AutoML](https://www.linkedin.com/pulse/microsofts-automated-machine-learning-caio-moreno/)
+
 
 # Sample Codes 
 | Tool | Sample Codes |
