@@ -20,19 +20,19 @@ Technologies you will use to gain your skills:
 
 # How to start 
 
-Data Science <BR>  
+<b>Data Science</b> <BR>  
 Opportunities for data scientists—one of today's hottest jobs—are rapidly growing in response to the exponential amounts of data being captured and analyzed. Companies hire data scientists to find insights and to solve meaningful business problems.<BR>  
 
 Microsoft Professional Program for Data Science <BR>
 https://academy.microsoft.com/en-US/professional-program/tracks/data-science/ <BR>
   
-Artificial Intelligence <BR>
+<b>Artificial Intelligence</b> <BR>
 Artificial Intelligence (AI) will define the next generation of software solutions. Human-like capabilities such as understanding natural language, speech, vision, and making inferences from knowledge will extend software beyond the app. <BR>
 
 Microsoft Professional Program for Artificial Intelligence <BR>
 https://academy.microsoft.com/en-US/professional-program/tracks/artificial-intelligence/ <BR>
 
-Big Data <BR>
+<b> Big Data </b> <BR>
 Learn how to build big data solutions for batch and real-time stream processing using Azure managed services and open source systems like Hadoop and Spark. This curriculum will teach you the skills required to capture, process, and analyse data for today’s data-driven world. <BR>
 
 Microsoft Professional Program for Big Data<BR>
