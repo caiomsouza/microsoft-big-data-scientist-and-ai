@@ -35,6 +35,14 @@ https://academy.microsoft.com/en-US/professional-program/tracks/artificial-intel
 Microsoft Professional Program for Big Data<BR>
 https://academy.microsoft.com/en-US/professional-program/tracks/big-data/ <BR>
   
-  
+# Microsoft Certifications 
+
+Perform Cloud Data Science with Azure Machine Learning <BR>
+https://www.microsoft.com/en-us/learning/exam-70-774.aspx <BR>
+
+MCSA: Machine Learning <BR>
+https://www.microsoft.com/en-us/learning/mcsa-machine-learning.aspx <BR>
+
+
 
 
