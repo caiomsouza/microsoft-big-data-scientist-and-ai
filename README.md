@@ -4,6 +4,8 @@ Tracks:
 * Data Science
 * Artificial Intelligence
 * Big Data
+* [AutoML](https://www.linkedin.com/pulse/microsofts-automated-machine-learning-caio-moreno/)
+
 
 # Sample Codes 
 | Tool | Sample Codes |
@@ -12,8 +14,15 @@ Tracks:
 | Azure Cosmos DB | [Sample Codes Azure Cosmos DB](https://github.com/caiomsouza/microsoft-cosmos-db-playground) | 
 | Azure Databricks | [Sample Codes Azure Databricks](https://github.com/caiomsouza/microsoft-azure-databricks-playground) | 
 | Cognitive Services | [Sample Codes Cognitive Services](https://github.com/caiomsouza/Microsoft-Cognitive-Services) | 
-| R | [Sample Codes with R](https://github.com/caiomsouza/microsoft-big-data-scientist-and-ai/tree/master/samples/r) | 
+| R | [Sample Codes with R](https://github.com/caiomsouza/microsoft-big-data-scientist-and-ai/tree/master/samples) | 
 | Python | [Sample Codes with Python](https://github.com/caiomsouza/microsoft-big-data-scientist-and-ai/tree/master/samples/python) | 
+
+
+# AutoML Sample Codes 
+| Tool | Sample Codes |
+| ------------- |:-------------:|
+| AutoML H2o.ai | [AutoML H2o](https://github.com/caiomsouza/microsoft-big-data-scientist-and-ai/tree/master/samples/azure-notebooks/r/auto-ml-h2o) | 
+| Microsoft AutoML | [Microsoft AutoML](https://notebooks.azure.com/caiomsouza/libraries/Azure-MachineLearningNotebooks/tree/automl) |
 
 
 # How to start 
