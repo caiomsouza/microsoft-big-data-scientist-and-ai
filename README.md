@@ -1,23 +1,9 @@
 # Microsoft Big Data Scientist and Artificial Intelligence
 
-Technologies you will use to gain your skills:
-* T-SQL
-* Microsoft Excel
-* Power BI
-* Python
-* R
-* Azure Machine Learning
-* HDInsight
-* Spark / Azure Databricks
-* Azure Machine Learning Studio 
-* Azure Notebooks
-* R Server
-* Azure Data Lake
-* Hadoop 
-* Azure data factory
-* Azure Stream Analytics
-
-
+Tracks:
+* Data Science
+* Artificial Intelligence
+* Big Data
 
 
 # How to start 
