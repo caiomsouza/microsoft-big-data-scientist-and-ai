@@ -43,6 +43,8 @@ https://www.microsoft.com/en-us/learning/exam-70-774.aspx <BR>
 MCSA: Machine Learning <BR>
 https://www.microsoft.com/en-us/learning/mcsa-machine-learning.aspx <BR>
 
+# Machine Learning Open dataset
+https://github.com/caiomsouza/ml-open-datasets
 
 
 
