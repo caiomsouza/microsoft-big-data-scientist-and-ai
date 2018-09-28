@@ -20,6 +20,7 @@ Tracks:
 | Tool | Sample Codes |
 | ------------- |:-------------:|
 | AutoML H2o.ai | [AutoML H2o](https://github.com/caiomsouza/microsoft-big-data-scientist-and-ai/tree/master/samples/azure-notebooks/r/auto-ml-h2o) | 
+| Microsoft AutoML | [Microsoft AutoML](https://notebooks.azure.com/caiomsouza/libraries/Azure-MachineLearningNotebooks/tree/automl) |
 
 
 # How to start 
