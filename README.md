@@ -16,6 +16,11 @@ Tracks:
 | Python | [Sample Codes with Python](https://github.com/caiomsouza/microsoft-big-data-scientist-and-ai/tree/master/samples/python) | 
 
 
+# AutoML Sample Codes 
+| Tool | Sample Codes |
+| AutoML H2o.ai | [AutoML H2o](https://github.com/caiomsouza/microsoft-big-data-scientist-and-ai/tree/master/samples/azure-notebooks/r/auto-ml-h2o) | 
+
+
 # How to start 
 
 <b>Data Science</b><BR>
