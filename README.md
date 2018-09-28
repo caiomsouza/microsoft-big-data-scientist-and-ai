@@ -12,6 +12,10 @@ Technologies you will use to gain your skills:
 * Azure Machine Learning Studio 
 * Azure Notebooks
 * R Server
+* Azure Data Lake
+* Hadoop 
+* Azure data factory
+* Azure Stream Analytics
 
 
 # How to start 
@@ -27,4 +31,10 @@ Artificial Intelligence (AI) will define the next generation of software solutio
 
 Microsoft Professional Program for Artificial Intelligence <BR>
 https://academy.microsoft.com/en-US/professional-program/tracks/artificial-intelligence/ <BR>
+
+Microsoft Professional Program for Big Data<BR>
+https://academy.microsoft.com/en-US/professional-program/tracks/big-data/ <BR>
+  
+  
+
 
