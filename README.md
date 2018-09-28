@@ -32,6 +32,9 @@ Artificial Intelligence (AI) will define the next generation of software solutio
 Microsoft Professional Program for Artificial Intelligence <BR>
 https://academy.microsoft.com/en-US/professional-program/tracks/artificial-intelligence/ <BR>
 
+Big Data <BR>
+Learn how to build big data solutions for batch and real-time stream processing using Azure managed services and open source systems like Hadoop and Spark. This curriculum will teach you the skills required to capture, process, and analyse data for today’s data-driven world. <BR>
+
 Microsoft Professional Program for Big Data<BR>
 https://academy.microsoft.com/en-US/professional-program/tracks/big-data/ <BR>
   
