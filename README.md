@@ -1,21 +1,25 @@
 # Microsoft Data Scientist and Artificial Intelligence
 
-Tools:
-* Azure Machine Learning Studio 
-* Azure Notebooks
-* R Server
-* Azure Databricks
+Technologies you will use to gain your skills:
+* T-SQL
+* Microsoft Excel
 * Power BI
 * Python
 * R
+* Azure Machine Learning
+* HDInsight
+* Spark / Azure Databricks
+* Azure Machine Learning Studio 
+* Azure Notebooks
+* R Server
 
 
 # How to start 
 
-Microsoff offers: <BR>
+Data Science <BR>  
+Opportunities for data scientists—one of today's hottest jobs—are rapidly growing in response to the exponential amounts of data being captured and analyzed. Companies hire data scientists to find insights and to solve meaningful business problems.<BR>  
 
 Microsoft Professional Program for Data Science <BR>
-Opportunities for data scientists—one of today's hottest jobs—are rapidly growing in response to the exponential amounts of data being captured and analyzed. Companies hire data scientists to find insights and to solve meaningful business problems.<BR>  
 https://academy.microsoft.com/en-US/professional-program/tracks/data-science/ <BR>
   
 Artificial Intelligence <BR>
