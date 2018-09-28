@@ -1,4 +1,4 @@
-# Microsoft Data Scientist and Artificial Intelligence
+# Microsoft Big Data Scientist and Artificial Intelligence
 
 Technologies you will use to gain your skills:
 * T-SQL
