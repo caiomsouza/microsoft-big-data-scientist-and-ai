@@ -64,8 +64,8 @@ MCSA: Machine Learning <BR>
 https://www.microsoft.com/en-us/learning/mcsa-machine-learning.aspx <BR>
 
 # Machine Learning Open dataset
-https://github.com/caiomsouza/ml-open-datasets
-https://github.com/awesomedata/awesome-public-datasets
+https://github.com/caiomsouza/ml-open-datasets <BR>
+https://github.com/awesomedata/awesome-public-datasets <BR>
 
 # Videos
 
