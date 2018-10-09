@@ -71,3 +71,6 @@ https://github.com/caiomsouza/ml-open-datasets
 Building a Modern Data Warehouse on Microsoft Azure with Azure HDInsight and Azure Databricks <BR>
 https://www.youtube.com/watch?v=w40JF_Qu5Nw <BR>
 
+# Offline data transfer
+The Azure Data Box family lets you transfer hundreds of terabytes of data to Azure in a quick, inexpensive, and reliable manner. Use the Data Box devices for offline data transfer when you are limited by time, network, or cost.
+https://docs.microsoft.com/en-us/azure/databox/
