@@ -66,5 +66,6 @@ https://www.microsoft.com/en-us/learning/mcsa-machine-learning.aspx <BR>
 # Machine Learning Open dataset
 https://github.com/caiomsouza/ml-open-datasets
 
-
+Building a Modern Data Warehouse on Microsoft Azure with Azure HDInsight and Azure Databricks <BR>
+https://www.youtube.com/watch?v=w40JF_Qu5Nw <BR>
 
