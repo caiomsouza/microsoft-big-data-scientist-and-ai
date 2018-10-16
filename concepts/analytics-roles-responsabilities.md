@@ -61,3 +61,13 @@ Big Data Architect - Manage the complete lifecycle of a Hadoop solution:
 
 Source: <BR>
 https://www.simplilearn.com/how-to-become-a-big-data-hadoop-architect-article <BR>
+ 
+ 
+Forrester Analyst Mike Gualtieri recently predicted that "100 percent of large companies" would adopt Hadoop over the next couple of years. <BR>
+ 
+A report from Market Research forecasts that the Hadoop market will grow at a compound annual growth rate (CAGR) of 58 percent through 2022 and that it will be worth more than $1 billion by 2020. IBM, too, believes so strongly in open source Big Data tools that it assigned 3,500 researchers to work on Apache Spark, a tool that is part of the Hadoop ecosystem. 
+
+Source: <BR>
+https://www.simplilearn.com/how-to-become-a-big-data-hadoop-architect-article <BR>
+
+
