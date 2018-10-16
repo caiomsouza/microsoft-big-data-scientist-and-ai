@@ -32,3 +32,32 @@ As per statistics, USA requires more big data architects and there are going to 
 
 Source:
 https://www.jobawareness.com/bigdata-architect-responsibilities-skills.asp
+
+These are the main tasks which Architect need to do or should have these skill set to become Big Data Architect.
+
+* Should be able to Design, Architect, and help Maintain Enterprise solutions on the big data analytics platform
+* Should be able to lead systems implementations and detailed functional/technical system design
+* Leverage extensive knowledge of distributed systems, process flows and procedures to aid analyses and recommendations for solution offerings
+* Guide/Mentor/Assist in development of the proposed architectural solution
+* Develop automation for the setup and maintenance of the Big Data Platform
+* Lead performance tuning activities of the system
+* Lead the team in infrastructure setup phases
+* Design, Architect, and help Maintain Enterprise solutions on the big data analytics platform
+* Lead systems implementations and detailed functional/technical system design
+* Need to take end-to-end ownership for solution components and bring in design best practices and tools
+
+Source:
+http://www.hadoopadmin.co.in/bigdata-architect/role-and-responsibilities/
+
+Big Data Hadoop architects have evolved to become vital links between businesses and technology. They’re responsible for planning and designing next-generation big-data systems and managing large-scale development and deployment of Hadoop applications. Hadoop architects are among the highest paid professionals in the IT industry, earning on average between $91,392 and $133,988 per year, and as much as $200,000 per year. <BR>
+
+Big Data Architect - Manage the complete lifecycle of a Hadoop solution:
+* including requirement analysis
+* platform selection
+* design of technical architecture
+* design of application design and development
+* testing
+* deployment of the proposed solution.
+
+Source:
+https://www.simplilearn.com/how-to-become-a-big-data-hadoop-architect-article
