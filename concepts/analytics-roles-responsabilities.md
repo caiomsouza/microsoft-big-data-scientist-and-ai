@@ -71,3 +71,7 @@ Source: <BR>
 https://www.simplilearn.com/how-to-become-a-big-data-hadoop-architect-article <BR>
 
 
+Organizations that look to leverage big data are qualitatively different from those that don’t. That’s because: 1) they simply have much have more data to deal with — typically petabytes, not terabytes, 2) that data comes from many different sources in many different formats, and 3) all that data serves one or possibly two core strategies. One strategy is to generate critical insights at near real-time speed. The other is to automate massively scaled operations in real time (think Netflix videos or GE’s remote predictive maintenance on its customers’ jet and locomotive engines). In both strategies, big data enables a business model differentiated by speed, scale, agility, and intelligence.
+
+Source: <BR>
+https://blog.panoply.io/big-data-architect-role <BR>
