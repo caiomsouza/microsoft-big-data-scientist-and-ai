@@ -59,5 +59,5 @@ Big Data Architect - Manage the complete lifecycle of a Hadoop solution:
 * testing
 * deployment of the proposed solution.
 
-Source:
-https://www.simplilearn.com/how-to-become-a-big-data-hadoop-architect-article
+Source: <BR>
+https://www.simplilearn.com/how-to-become-a-big-data-hadoop-architect-article <BR>
