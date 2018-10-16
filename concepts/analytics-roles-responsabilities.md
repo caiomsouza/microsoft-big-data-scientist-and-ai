@@ -1,6 +1,6 @@
 # Analytics Roles and Responsabilities 
 
-## Big Data Architect roles and responsibilites | Skills of a Big Data Architect
+### Big Data Architect roles and responsibilites | Skills of a Big Data Architect
 
 What is Big data?
  
