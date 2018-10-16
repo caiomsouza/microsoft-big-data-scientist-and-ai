@@ -73,5 +73,13 @@ https://www.simplilearn.com/how-to-become-a-big-data-hadoop-architect-article <B
 
 Organizations that look to leverage big data are qualitatively different from those that don’t. That’s because: 1) they simply have much have more data to deal with — typically petabytes, not terabytes, 2) that data comes from many different sources in many different formats, and 3) all that data serves one or possibly two core strategies. One strategy is to generate critical insights at near real-time speed. The other is to automate massively scaled operations in real time (think Netflix videos or GE’s remote predictive maintenance on its customers’ jet and locomotive engines). In both strategies, big data enables a business model differentiated by speed, scale, agility, and intelligence.
 
+Deep skills in big data tools and technologies (like those listed in most big data architect job postings). Those include data warehouse technologies like Accumulo, Hadoop, Panoply, Redshift architecture, MapReduce, Hive, HBase, MongoDB, and Cassandra as well as data modeling and mining tools like Impala, Oozie, Mahout, Flume, ZooKeeper, and Sqoop. Relevant programming languages include Java, Linux, PHP, and Python. BI and visualization tools include Apache Zeppelin, Chartio, R Studio, and Tableau. A big data architect should obviously also be experienced designing and implementing large on-prem and cloud-based data warehouse solutions utilizing cluster and parallel RDMS and NoSQL architectures.
+
 Source: <BR>
 https://blog.panoply.io/big-data-architect-role <BR>
+ 
+3 Ways to Build An ETL Process <BR>
+https://panoply.io/data-warehouse-guide/3-ways-to-build-an-etl-process/ <BR>
+
+Extract, transform, and load (ETL) <BR>
+https://docs.microsoft.com/en-us/azure/architecture/data-guide/relational-data/etl <BR>
