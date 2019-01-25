@@ -12,7 +12,7 @@ Tracks:
 | ------------- |:-------------:|
 | Azure Data Lake | [Sample Codes Azure Data Lake](https://github.com/caiomsouza/microsoft-azure-big-data-on-the-cloud) | 
 | Azure Cosmos DB | [Sample Codes Azure Cosmos DB](https://github.com/caiomsouza/microsoft-cosmos-db-playground) | 
-| Azure Databricks (Spark) | [Sample Codes Azure Databricks](https://github.com/caiomsouza/microsoft-azure-databricks-playground) | 
+| Azure Databricks (Spark) | [Videos and Sample Codes Azure Databricks](https://github.com/caiomsouza/microsoft-azure-databricks-playground) | 
 | Azure HDInsight | [Sample Codes Azure HDInsight](https://github.com/caiomsouza/microsoft-azure-insight-playground) | 
 | Cognitive Services | [Sample Codes Cognitive Services](https://github.com/caiomsouza/Microsoft-Cognitive-Services) | 
 | R | [Sample Codes with R](https://github.com/caiomsouza/microsoft-big-data-scientist-and-ai/tree/master/samples) | 
