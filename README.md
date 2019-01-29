@@ -14,6 +14,7 @@ Tracks:
 | Azure Cosmos DB | [Sample Codes Azure Cosmos DB](https://github.com/caiomsouza/microsoft-cosmos-db-playground) | 
 | Azure Databricks (Spark) | [Videos and Sample Codes Azure Databricks](https://github.com/caiomsouza/microsoft-azure-databricks-playground) | 
 | Azure HDInsight | [Sample Codes Azure HDInsight](https://github.com/caiomsouza/microsoft-azure-insight-playground) | 
+| Azure SQL DW | [Azure SQL DW Demo](https://medium.com/@caiomsouza/azure-sql-data-warehouse-a38bc74a1dc0) | 
 | Cognitive Services | [Sample Codes Cognitive Services](https://github.com/caiomsouza/Microsoft-Cognitive-Services) | 
 | R | [Sample Codes with R](https://github.com/caiomsouza/microsoft-big-data-scientist-and-ai/tree/master/samples) | 
 | Python | [Sample Codes with Python](https://github.com/caiomsouza/microsoft-big-data-scientist-and-ai/tree/master/samples/python) | 
