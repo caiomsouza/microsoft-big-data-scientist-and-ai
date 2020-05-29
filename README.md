@@ -19,6 +19,7 @@ Tracks:
 | AML - Azure Machine Learning Services | [Sample Codes AML](https://github.com/caiomsouza/microsoft-aml-azure-machine-learning)| 
 | R | [Sample Codes with R](https://github.com/caiomsouza/microsoft-big-data-scientist-and-ai/tree/master/samples) | 
 | Python | [Sample Codes with Python](https://github.com/caiomsouza/microsoft-big-data-scientist-and-ai/tree/master/samples/python) | 
+| Natural Language Processing Best Practices & Examples | [Natural Language Processing Best Practices & Examples](https://github.com/microsoft/nlp-recipes) | 
 
 
 # AutoML Sample Codes 
