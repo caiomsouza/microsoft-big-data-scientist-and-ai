@@ -6,11 +6,11 @@ Tracks:
 * Big Data
 * [AutoML](https://www.linkedin.com/pulse/microsofts-automated-machine-learning-caio-moreno/)
 
-# Azure Architecture Center 
+### Azure Architecture Center 
 https://docs.microsoft.com/en-us/azure/architecture/
 
 
-# Sample Codes 
+### Sample Codes 
 | Tool | Sample Codes |
 | ------------- |:-------------:|
 | Azure Data Lake | [Sample Codes Azure Data Lake](https://github.com/caiomsouza/microsoft-azure-big-data-on-the-cloud) | 
@@ -25,7 +25,7 @@ https://docs.microsoft.com/en-us/azure/architecture/
 | Natural Language Processing Best Practices & Examples | [Natural Language Processing Best Practices & Examples](https://github.com/microsoft/nlp-recipes) | 
 
 
-# AutoML Sample Codes 
+### AutoML Sample Codes 
 | Tool | Sample Codes |
 | ------------- |:-------------:|
 | AutoML H2o.ai | [AutoML H2o](https://github.com/caiomsouza/microsoft-big-data-scientist-and-ai/tree/master/samples/azure-notebooks/r/auto-ml-h2o) | 
@@ -33,28 +33,28 @@ https://docs.microsoft.com/en-us/azure/architecture/
 | Microsoft AML | [Tutorial: Use automated machine learning to predict taxi fares](https://docs.microsoft.com/en-gb/azure/machine-learning/tutorial-auto-train-models?toc=/azure/open-datasets/toc.json&bc=/azure/open-datasets/breadcrumb/toc.json) |
 
 
-# Azure Open Datasets
+### Azure Open Datasets
 https://docs.microsoft.com/en-gb/azure/open-datasets/<BR>
 https://github.com/Azure/OpenDatasetsNotebooks/<BR>
 
-# Machine Learning Open dataset
+### Machine Learning Open dataset
 https://github.com/caiomsouza/ml-open-datasets <BR>
 https://github.com/awesomedata/awesome-public-datasets <BR>
 
-# The Data Science Lifecycle Process
+### The Data Science Lifecycle Process
 https://github.com/dslp/dslp<BR>
 
-# The Team Data Science Process lifecycle
+### The Team Data Science Process lifecycle
 https://docs.microsoft.com/en-us/azure/machine-learning/team-data-science-process/lifecycle <BR>
 
 
-# Machine Learning Model Management 
+### Machine Learning Model Management 
 | Tool | Link |
 | ------------- |:-------------:|
 | MLFlow | [MLFlow](https://www.youtube.com/watch?v=CJMtcb_Zqy4)
 
 
-# How to start 
+### How to start 
 
 <b>Data Science</b><BR>
 Opportunities for data scientists—one of today's hottest jobs—are rapidly growing in response to the exponential amounts of data being captured and analyzed. Companies hire data scientists to find insights and to solve meaningful business problems.<BR>  
@@ -83,7 +83,7 @@ https://academy.microsoft.com/en-US/professional-program/tracks/big-data/ <BR>
 Technologies you will use to gain your skills: <BR> 
 Azure Data Lake, Hadoop, HDInsight, Spark, Azure data factory, Azure Stream Analytics <BR>
  
-# Microsoft Certifications 
+### Microsoft Certifications 
 
 Perform Cloud Data Science with Azure Machine Learning <BR>
 https://www.microsoft.com/en-us/learning/exam-70-774.aspx <BR>
@@ -91,11 +91,11 @@ https://www.microsoft.com/en-us/learning/exam-70-774.aspx <BR>
 MCSA: Machine Learning <BR>
 https://www.microsoft.com/en-us/learning/mcsa-machine-learning.aspx <BR>
 
-# Videos
+### Videos
 
 Building a Modern Data Warehouse on Microsoft Azure with Azure HDInsight and Azure Databricks <BR>
 https://www.youtube.com/watch?v=w40JF_Qu5Nw <BR>
 
-# Offline data transfer
+### Offline data transfer
 The Azure Data Box family lets you transfer hundreds of terabytes of data to Azure in a quick, inexpensive, and reliable manner. Use the Data Box devices for offline data transfer when you are limited by time, network, or cost.
 https://docs.microsoft.com/en-us/azure/databox/
