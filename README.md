@@ -6,6 +6,10 @@ Tracks:
 * Big Data
 * [AutoML](https://www.linkedin.com/pulse/microsofts-automated-machine-learning-caio-moreno/)
 
+# Azure Open Datasets
+https://docs.microsoft.com/en-gb/azure/open-datasets/
+https://github.com/Azure/OpenDatasetsNotebooks/
+
 
 # Sample Codes 
 | Tool | Sample Codes |
@@ -27,6 +31,9 @@ Tracks:
 | ------------- |:-------------:|
 | AutoML H2o.ai | [AutoML H2o](https://github.com/caiomsouza/microsoft-big-data-scientist-and-ai/tree/master/samples/azure-notebooks/r/auto-ml-h2o) | 
 | Microsoft AutoML | [Microsoft AutoML](https://notebooks.azure.com/caiomsouza/libraries/Azure-MachineLearningNotebooks/tree/automl) |
+| Microsoft AML | [Tutorial: Use automated machine learning to predict taxi fares](https://docs.microsoft.com/en-gb/azure/machine-learning/tutorial-auto-train-models?toc=/azure/open-datasets/toc.json&bc=/azure/open-datasets/breadcrumb/toc.json) |
+
+
 
 # Machine Learning Model Management 
 | Tool | Link |
