@@ -38,6 +38,12 @@ https://github.com/Azure/OpenDatasetsNotebooks/<BR>
 https://github.com/caiomsouza/ml-open-datasets <BR>
 https://github.com/awesomedata/awesome-public-datasets <BR>
 
+# The Data Science Lifecycle Process
+https://github.com/dslp/dslp<BR>
+
+# The Team Data Science Process lifecycle
+https://docs.microsoft.com/en-us/azure/machine-learning/team-data-science-process/lifecycle <BR>
+
 
 # Machine Learning Model Management 
 | Tool | Link |
