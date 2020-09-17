@@ -15,7 +15,7 @@ https://docs.microsoft.com/en-us/azure/architecture/
 ### Sample Codes 
 | Tool | Sample Codes |
 | ------------- |:-------------:|
-| AML - Azure Machine Learning Services | [Sample Codes AML](https://github.com/caiomsouza/microsoft-aml-azure-machine-learning)| 
+| Azure Machine Learning | [Sample Codes AML](https://github.com/caiomsouza/microsoft-aml-azure-machine-learning)| 
 | R | [Sample Codes with R](https://github.com/caiomsouza/microsoft-big-data-scientist-and-ai/tree/master/samples) | 
 | Python | [Sample Codes with Python](https://github.com/caiomsouza/microsoft-big-data-scientist-and-ai/tree/master/samples/python) | 
 | Natural Language Processing Best Practices & Examples | [Natural Language Processing Best Practices & Examples](https://github.com/microsoft/nlp-recipes) | 
@@ -28,8 +28,7 @@ https://docs.microsoft.com/en-us/azure/architecture/
 | Azure HDInsight | [Sample Codes Azure HDInsight](https://github.com/caiomsouza/microsoft-azure-insight-playground) | 
 | Azure SQL DW | [Azure SQL DW Demo](https://medium.com/@caiomsouza/azure-sql-data-warehouse-a38bc74a1dc0) | 
 | ONNX Tutorials | [ONNX Tutorials](https://onnx.ai/get-started.html) | 
-
-
+| Azure Machine Learning | [Forecasting ](https://github.com/microsoft/forecasting) | 
 
 
 
