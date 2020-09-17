@@ -6,6 +6,9 @@ Tracks:
 * Big Data
 * [AutoML](https://www.linkedin.com/pulse/microsofts-automated-machine-learning-caio-moreno/)
 
+# Azure Architecture Center 
+https://docs.microsoft.com/en-us/azure/architecture/
+
 
 # Sample Codes 
 | Tool | Sample Codes |
