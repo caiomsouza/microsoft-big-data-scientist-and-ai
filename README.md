@@ -1,5 +1,7 @@
 # Microsoft Big Data Scientist and Artificial Intelligence
 
+"Success is walking from failure to failure with no loss of enthusiasm." Winston Churchill
+
 Tracks:
 * Data Science
 * Artificial Intelligence
@@ -110,3 +112,5 @@ https://docs.microsoft.com/en-us/azure/databox/
 ### Microsoft Azure Well-Architected Framework
 https://docs.microsoft.com/en-us/azure/architecture/framework/
 
+### GITHUB CLI
+https://cli.github.com/
