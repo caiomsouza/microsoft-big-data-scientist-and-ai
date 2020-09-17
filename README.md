@@ -27,7 +27,7 @@ https://docs.microsoft.com/en-us/azure/architecture/
 | Azure Cosmos DB | [Sample Codes Azure Cosmos DB](https://github.com/caiomsouza/microsoft-cosmos-db-playground) | 
 | Azure HDInsight | [Sample Codes Azure HDInsight](https://github.com/caiomsouza/microsoft-azure-insight-playground) | 
 | Azure SQL DW | [Azure SQL DW Demo](https://medium.com/@caiomsouza/azure-sql-data-warehouse-a38bc74a1dc0) | 
-| ONNX Tutorials | [ONNX Tutorials](https://medium.com/@caiomsouza/azure-sql-data-warehouse-a38bc74a1dc0) | 
+| ONNX Tutorials | [ONNX Tutorials](https://onnx.ai/get-started.html) | 
 
 
 
