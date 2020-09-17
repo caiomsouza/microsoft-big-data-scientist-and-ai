@@ -15,7 +15,9 @@ https://github.com/Azure/DeepLearningForTimeSeriesForecasting
 
 
 ### COVID-19 Forecast Hub
-https://github.com/reichlab/covid19-forecast-hub
-https://github.com/youyanggu/covid19-forecast-hub-evaluation
-
-
+https://covid19forecasthub.org/<BR>
+https://viz.covid19forecasthub.org/<BR>
+https://github.com/cdcepi/COVID-19-Forecasts/blob/master/COVID-19_Forecast_Model_Descriptions.md<BR>
+https://github.com/sakethsundar/covid-forecaster/blob/master/MIT_GBCF_Forecaster.ipynb<BR>
+https://github.com/reichlab/covid19-forecast-hub<BR>
+https://github.com/youyanggu/covid19-forecast-hub-evaluation<BR>
