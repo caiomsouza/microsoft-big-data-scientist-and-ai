@@ -26,6 +26,8 @@ https://docs.microsoft.com/en-us/azure/architecture/
 | Python | [Sample Codes with Python](https://github.com/caiomsouza/microsoft-big-data-scientist-and-ai/tree/master/samples/python) | 
 | Natural Language Processing Best Practices & Examples | [Natural Language Processing Best Practices & Examples](https://github.com/microsoft/nlp-recipes) | 
 | Custom Vision Workshop | [Workshop to build a Social Distance Image Detector using Microsoft Customvision.ai (AI/ML) and Microsoft PowerApps](https://github.com/caiomsouza/MicrosoftCustomVisionAIWorkshop) | 
+| Multiple tools | [COVID-19 Forecast Hub](https://github.com/reichlab/covid19-forecast-hub) | 
+
 
 ### AutoML Sample Codes 
 | Tool | Sample Codes |
