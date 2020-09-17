@@ -6,10 +6,6 @@ Tracks:
 * Big Data
 * [AutoML](https://www.linkedin.com/pulse/microsofts-automated-machine-learning-caio-moreno/)
 
-# Azure Open Datasets
-https://docs.microsoft.com/en-gb/azure/open-datasets/
-https://github.com/Azure/OpenDatasetsNotebooks/
-
 
 # Sample Codes 
 | Tool | Sample Codes |
@@ -34,11 +30,20 @@ https://github.com/Azure/OpenDatasetsNotebooks/
 | Microsoft AML | [Tutorial: Use automated machine learning to predict taxi fares](https://docs.microsoft.com/en-gb/azure/machine-learning/tutorial-auto-train-models?toc=/azure/open-datasets/toc.json&bc=/azure/open-datasets/breadcrumb/toc.json) |
 
 
+# Azure Open Datasets
+https://docs.microsoft.com/en-gb/azure/open-datasets/<BR>
+https://github.com/Azure/OpenDatasetsNotebooks/<BR>
+
+# Machine Learning Open dataset
+https://github.com/caiomsouza/ml-open-datasets <BR>
+https://github.com/awesomedata/awesome-public-datasets <BR>
+
 
 # Machine Learning Model Management 
 | Tool | Link |
 | ------------- |:-------------:|
 | MLFlow | [MLFlow](https://www.youtube.com/watch?v=CJMtcb_Zqy4)
+
 
 # How to start 
 
@@ -76,10 +81,6 @@ https://www.microsoft.com/en-us/learning/exam-70-774.aspx <BR>
 
 MCSA: Machine Learning <BR>
 https://www.microsoft.com/en-us/learning/mcsa-machine-learning.aspx <BR>
-
-# Machine Learning Open dataset
-https://github.com/caiomsouza/ml-open-datasets <BR>
-https://github.com/awesomedata/awesome-public-datasets <BR>
 
 # Videos
 
