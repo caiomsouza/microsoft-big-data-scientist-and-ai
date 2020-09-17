@@ -15,18 +15,22 @@ https://docs.microsoft.com/en-us/azure/architecture/
 ### Sample Codes 
 | Tool | Sample Codes |
 | ------------- |:-------------:|
-| Azure Data Lake | [Sample Codes Azure Data Lake](https://github.com/caiomsouza/microsoft-azure-big-data-on-the-cloud) | 
-| Azure Cosmos DB | [Sample Codes Azure Cosmos DB](https://github.com/caiomsouza/microsoft-cosmos-db-playground) | 
-| Azure Databricks (Spark) | [Videos and Sample Codes Azure Databricks](https://github.com/caiomsouza/microsoft-azure-databricks-playground) | 
-| Azure HDInsight | [Sample Codes Azure HDInsight](https://github.com/caiomsouza/microsoft-azure-insight-playground) | 
-| Azure SQL DW | [Azure SQL DW Demo](https://medium.com/@caiomsouza/azure-sql-data-warehouse-a38bc74a1dc0) | 
-| Cognitive Services | [Sample Codes Cognitive Services](https://github.com/caiomsouza/Microsoft-Cognitive-Services) | 
 | AML - Azure Machine Learning Services | [Sample Codes AML](https://github.com/caiomsouza/microsoft-aml-azure-machine-learning)| 
 | R | [Sample Codes with R](https://github.com/caiomsouza/microsoft-big-data-scientist-and-ai/tree/master/samples) | 
 | Python | [Sample Codes with Python](https://github.com/caiomsouza/microsoft-big-data-scientist-and-ai/tree/master/samples/python) | 
 | Natural Language Processing Best Practices & Examples | [Natural Language Processing Best Practices & Examples](https://github.com/microsoft/nlp-recipes) | 
 | Custom Vision Workshop | [Workshop to build a Social Distance Image Detector using Microsoft Customvision.ai (AI/ML) and Microsoft PowerApps](https://github.com/caiomsouza/MicrosoftCustomVisionAIWorkshop) | 
+| Azure Databricks (Spark) | [Videos and Sample Codes Azure Databricks](https://github.com/caiomsouza/microsoft-azure-databricks-playground) | 
+| Cognitive Services | [Sample Codes Cognitive Services](https://github.com/caiomsouza/Microsoft-Cognitive-Services) | 
 | Multiple tools | [COVID-19 Forecast Hub](https://github.com/reichlab/covid19-forecast-hub) | 
+| Azure Data Lake | [Sample Codes Azure Data Lake](https://github.com/caiomsouza/microsoft-azure-big-data-on-the-cloud) | 
+| Azure Cosmos DB | [Sample Codes Azure Cosmos DB](https://github.com/caiomsouza/microsoft-cosmos-db-playground) | 
+| Azure HDInsight | [Sample Codes Azure HDInsight](https://github.com/caiomsouza/microsoft-azure-insight-playground) | 
+| Azure SQL DW | [Azure SQL DW Demo](https://medium.com/@caiomsouza/azure-sql-data-warehouse-a38bc74a1dc0) | 
+| ONNX Tutorials | [ONNX Tutorials](https://medium.com/@caiomsouza/azure-sql-data-warehouse-a38bc74a1dc0) | 
+
+
+
 
 
 ### AutoML Sample Codes 
