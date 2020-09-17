@@ -29,6 +29,8 @@ https://docs.microsoft.com/en-us/azure/architecture/
 | Azure SQL DW | [Azure SQL DW Demo](https://medium.com/@caiomsouza/azure-sql-data-warehouse-a38bc74a1dc0) | 
 | ONNX Tutorials | [ONNX Tutorials](https://onnx.ai/get-started.html) | 
 | Azure Machine Learning | [Forecasting ](https://github.com/microsoft/forecasting) | 
+| Azure Machine Learning | [Many Models Solution Accelerator ](https://github.com/microsoft/solution-accelerator-many-models) | 
+| Azure ML | [Computer Vision ](https://github.com/microsoft/computervision-recipes) | 
 
 
 
