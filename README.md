@@ -23,7 +23,7 @@ https://docs.microsoft.com/en-us/azure/architecture/
 | R | [Sample Codes with R](https://github.com/caiomsouza/microsoft-big-data-scientist-and-ai/tree/master/samples) | 
 | Python | [Sample Codes with Python](https://github.com/caiomsouza/microsoft-big-data-scientist-and-ai/tree/master/samples/python) | 
 | Natural Language Processing Best Practices & Examples | [Natural Language Processing Best Practices & Examples](https://github.com/microsoft/nlp-recipes) | 
-
+| Custom Vision Workshop | [Workshop to build a Social Distance Image Detector using Microsoft Customvision.ai (AI/ML) and Microsoft PowerApps](https://github.com/caiomsouza/MicrosoftCustomVisionAIWorkshop) | 
 
 ### AutoML Sample Codes 
 | Tool | Sample Codes |
@@ -52,6 +52,12 @@ https://docs.microsoft.com/en-us/azure/machine-learning/team-data-science-proces
 | Tool | Link |
 | ------------- |:-------------:|
 | MLFlow | [MLFlow](https://www.youtube.com/watch?v=CJMtcb_Zqy4)
+
+### Microsoft AI 
+| Tool | Link |
+| ------------- |:-------------:|
+| CustomVision | [CustomVision](https://www.customvision.ai/)
+| Bonsai | [Bonsai](https://docs.microsoft.com/en-gb/bonsai/)
 
 
 ### How to start 
@@ -99,3 +105,8 @@ https://www.youtube.com/watch?v=w40JF_Qu5Nw <BR>
 ### Offline data transfer
 The Azure Data Box family lets you transfer hundreds of terabytes of data to Azure in a quick, inexpensive, and reliable manner. Use the Data Box devices for offline data transfer when you are limited by time, network, or cost.
 https://docs.microsoft.com/en-us/azure/databox/
+
+
+### Microsoft Azure Well-Architected Framework
+https://docs.microsoft.com/en-us/azure/architecture/framework/
+
