@@ -8,6 +8,18 @@ Tracks:
 * Big Data
 * [AutoML](https://www.linkedin.com/pulse/microsofts-automated-machine-learning-caio-moreno/)
 
+### Azure Data Scientist
+https://docs.microsoft.com/en-us/learn/roles/data-scientist
+
+### Machine learning for data scientists
+https://azure.microsoft.com/en-us/overview/ai-platform/data-scientist-resources/
+
+### Artificial intelligence for developers
+https://azure.microsoft.com/en-us/overview/ai-platform/dev-resources/
+
+
+
+
 ### Azure Architecture Center 
 https://docs.microsoft.com/en-us/azure/architecture/
 
